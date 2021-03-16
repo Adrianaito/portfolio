@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'middleman'
-gem 'middleman-autoprefixer'
+gem 'middleman-autoprefixer', '2.0.1'
+gem 'middleman-deploy'
 gem 'middleman-gh-pages'
 gem 'middleman-metaman'
 gem 'rake'
