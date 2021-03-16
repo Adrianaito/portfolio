@@ -220,6 +220,7 @@ DEPENDENCIES
   rspec
   rubocop
   selenium-webdriver
+  sprockets (~> 4.0)
 
 BUNDLED WITH
    2.1.4
